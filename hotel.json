@@ -1,4 +1,5 @@
-[
+{
+  "hotels":[
   {
     "name": "Astra ***",
     "panstwo": "Polska",
@@ -604,3 +605,4 @@
           }
   }
 ]
+}
