@@ -128,19 +128,8 @@
     "ulica" : "Centralna",
     "zwierzeta" : "leopardy",
     
-  },
-
-  {
-    "name": "Kraken ****",
-    "panstwo": "Szwecja",
-    "miasto": ["Stokholm", "Holmstock", "Kikimara"],
-    "rok_budowy": 2010,
-    "photo": "https://github.com/Terminator056/JSON-projekt-mobine/blob/main/obrazki/6.jpg?raw=true",
-    "jedzenie": ["bez","poranek, kolacja","3 razy dziennie"],
-    "typ_oplaty" : "karta/gotowka",
-    "ulica" : "Centralna",
-    "zwierzeta" : "czlowiek sniezny",
-    
   }
+
+
 ]
 }
