@@ -6,10 +6,7 @@
     "miasto": ["Kraków", "Białystok", "<strong>(Najwiękcej gwiazdek)</strong> Warszawa"],
     "rok_budowy": 2016,
     "photo": "https://github.com/Terminator056/JSON-projekt-mobine/blob/main/obrazki/1.jpg?raw=true",
-    "jedzenie": ["bez","poranek, kolacja","3 razy dziennie"],
-    "typ_oplaty" : "karta/gotowka",
-    "ulica" : "Centralna",
-    "zwierzeta" : "koty",
+    
     
    
   },
@@ -19,10 +16,7 @@
     "panstwo": "Anglia",
     "rok_budowy": 2008,
     "photo": "https://github.com/Terminator056/JSON-projekt-mobine/blob/main/obrazki/10.jpg?raw=true",
-    "jedzenie": ["bez","poranek, kolacja","3 razy dziennie"],
-    "typ_oplaty" : "karta/gotowka",
-    "ulica" : "Centralna",
-    "zwierzeta" : "pieski",
+    
     
   },
 
@@ -32,12 +26,9 @@
     "miasto": ["Wilno", "Szwentoji", "Palanga"],
     "rok_budowy": 2012,
     "photo": "https://github.com/Terminator056/JSON-projekt-mobine/blob/main/obrazki/11.jpg?raw=true",
-   "jedzenie": ["bez","poranek, kolacja","3 razy dziennie"],
-    "typ_oplaty" : "karta/gotowka",
-    "ulica" : "Centralna",
-    "zwierzeta" : "małpy",
+  
     
-  },
+  }
 
  
 
